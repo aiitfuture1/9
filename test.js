@@ -1,0 +1,1 @@
+$(".powered-by-datacamp" ).remove();
